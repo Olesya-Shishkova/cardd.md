@@ -1,6 +1,6 @@
 # Визитная карточка сотрудника
 
-![["https://i.pinimg.com/736x/14/3f/59/143f59f8341337d70ac9dd6c62963196--ezra-matthew-noszka.jpg" alt="Фото сотрудника")](photo.jpg)
+![[["https://i.pinimg.com/736x/14/3f/59/143f59f8341337d70ac9dd6c62963196--ezra-matthew-noszka.jpg" alt="Фото сотрудника"](https://i.pinimg.com/736x/98/4b/05/984b052b5d83642ee6e5c6c716c795d3.jpg))](photo.jpg)
 
 ## Личные данные
 - Фамилия, имя, отчество: Заносов Алексей Влвдимирович 
